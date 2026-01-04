@@ -20,7 +20,7 @@ Par défaut, Slim Framework laisse au développeur la gestion manuelle du corps 
 Ajoutez simplement la classe à votre projet ou installez-la via Composer :
 
 ```bash
-composer require votre-nom/response-formatter-api
+composer require 913groups/response-formatter-api
 
 ```
 
